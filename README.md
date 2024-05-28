@@ -60,7 +60,7 @@ Dr. Connie Justice
 - References.............................................................................................................................
 
 
-## Executive Summary .................................................................................................................
+## Executive Summary 
 
 OctoForensics was contracted by Densborn Blachly LLP to complete a digital forensic
 investigation of an LG SK8000 55” smart TV on the behalf of their plaintiff, Connie Justice, who alleged
@@ -77,7 +77,7 @@ returned to the Indianapolis Police Department and local working copies of the e
 destroyed according to the Department of Defense 5220.22-M standard.
 
 
-## Overview.................................................................................................................................
+## Overview
 
 As explained by the United States Copyright Office, copyright law was birthed into the United States
 Constitution in Article I, Section 8 in the year 1790 (United States Copyright Office, 2023). To elaborate,
@@ -121,7 +121,7 @@ will pivot to conducting a full forensic investigation of the captured image in 
 our objectives defined on page 5.
 
 
-## Case ........................................................................................................................................
+## Case
 
 On March 13th, 2023, OctoForensics group was contracted by Densborn Blachly LLP to perform forensic
 analysis on an LG SK8000PUA 55” Smart TV on behalf of the plaintiff they represent in a copyright suit,
