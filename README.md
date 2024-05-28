@@ -138,33 +138,24 @@ documentation found in Appendix A.
 
 ## Objectives
 
-#### The objective of this forensic investigation is to examine the evidence provided by the
+The objective of this forensic investigation is to examine the evidence provided by the
+Densborn Blachly LLP on behalf of the plaintiff, Dr. Connie Justice, for evidence of copyright
+infringement based on the Copyright Act of 1976 perpetrated by the defendant, Clay Hampton.
+OctoForensics will endeavor to conduct a complete forensic investigation of the evidence at
+hand and provide an empirical analysis of all findings in accordance with the court’s warrant
+and its subsequent limitations. Specifically, OctoForensics will conduct a forensic analysis to:
 
-#### Densborn Blachly LLP on behalf of the plaintiff, Dr. Connie Justice, for evidence of copyright
+1. Determine if the evidence provided contains any further evidence confirming or refuting
+any violations of the Copyright Act of 1976 from the defendant’s side.
 
-#### infringement based on the Copyright Act of 1976 perpetrated by the defendant, Clay Hampton.
+2. Confirm that the device in question does indeed belong to the defendant through
+obtaining any evidence of ownership from the device.
 
-#### OctoForensics will endeavor to conduct a complete forensic investigation of the evidence at
+3. Identify any potential counter forensic techniques that would qualify as destruction of
+evidence.
 
-#### hand and provide an empirical analysis of all findings in accordance with the court’s warrant
-
-#### and its subsequent limitations. Specifically, OctoForensics will conduct a forensic analysis to:
-
-#### 1. Determine if the evidence provided contains any further evidence confirming or refuting
-
-#### any violations of the Copyright Act of 1976 from the defendant’s side.
-
-#### 2. Confirm that the device in question does indeed belong to the defendant through
-
-#### obtaining any evidence of ownership from the device.
-
-#### 3. Identify any potential counter forensic techniques that would qualify as destruction of
-
-#### evidence.
-
-#### 4. Prove and maintain the forensic integrity of the evidence provided by the courts upon
-
-#### receipt.
+4. Prove and maintain the forensic integrity of the evidence provided by the courts upon
+receipt.
 
 
 ## Evidence ..................................................................................................................................
