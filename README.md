@@ -136,7 +136,7 @@ district court’s evidence clerk, Marcy Jackson at 8:02AM. Upon receipt, Malcol
 evidence directly to the OctoForensics evidence room at 8:37AM and properly filed the chain of custody
 documentation found in Appendix A.
 
-## Objectives ...............................................................................................................................
+## Objectives
 
 #### The objective of this forensic investigation is to examine the evidence provided by the
 
