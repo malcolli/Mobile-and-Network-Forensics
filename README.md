@@ -180,9 +180,9 @@ Technology, 2023).
 
 Will include and upload from PDFl
 
-## Analysis...................................................................................................................................
+## Analysis
 
-### Statement of Professional Responsibility ..........................................................................................
+## Statement of Professional Responsibility 
 
 As practitioners in the field of digital forensics, it is my responsibility to provide an accurate, unbiased,
 and professional analysis of the evidence provided for the case in hand. At no point will I draw
@@ -190,7 +190,7 @@ conclusions or postulations beyond the scope of the expertise I am charged with 
 point our expert testimony were to change, it is our duty to report it to all parties involved immediately
 upon recognition.
 
-### Tools.................................................................................................................................................
+## Tools
 
 The tools utilized in this forensic investigation are as follows:
 
