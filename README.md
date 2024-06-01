@@ -158,11 +158,11 @@ evidence.
 receipt.
 
 
-## Evidence ..................................................................................................................................
+## Evidence 
 
 Will include in this PDF download
 
-## Introduction......................................................................................................................................
+## Introduction
 
 Essential in adhering to legal requirements, evidence should be stored in a manner that preserves its
 integrity and protects it from damage, tampering or other compromising scenarios (Matheson, 2015).
