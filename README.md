@@ -11,7 +11,7 @@ methodology for conducting mobile and digital forensic investigations.
 **Digital Forensics Report– SK8000PUA 55’’ 4K HDR Smart LED SUPER UHD TV**
 
 ```
-Group 10 - Malcolm Collins and Blaine Milburn
+By Malcolm Collins and Blaine Milburn
 ```
 ```
 Date: March 13th, 2023
