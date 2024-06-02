@@ -10,15 +10,10 @@ methodology for conducting mobile and digital forensic investigations.
 
 **Digital Forensics Report– SK8000PUA 55’’ 4K HDR Smart LED SUPER UHD TV**
 
-```
-By Malcolm Collins and Blaine Milburn
-```
-```
 Date: March 13th, 2023
-```
-```
-Dr. Connie Justice
-```
+
+By Malcolm Collins and Blaine Milburn
+Reviewed by: Dr. Connie Justice
 
 ## Table of Contents
 
@@ -176,7 +171,7 @@ data. While hashed data can’t be used to “reverse-engineer” the input, hav
 would be considered compromising to the case and its validity (National Institute of Standards and
 Technology, 2023).
 
-### Table 1: Evidence Record ..................................................................................................................
+### Table 1: Evidence Record 
 
 Will include and upload from PDFl
 
