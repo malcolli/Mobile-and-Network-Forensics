@@ -1,6 +1,12 @@
 # Mobile-and-Network-Forensics
 Project of the Forensics Process of Mobile and Network Forensics and Cyber-Crime Scene Analysis
 
+# Topic - **Digital Forensics Report– SK8000PUA 55’’ 4K HDR Smart LED SUPER UHD TV**
+
+By Malcolm Collins and Blaine Milburn
+
+Reviewed by: Dr. Connie Justice
+
 # Purpose
 The various laws and regulations dealing with computer forensic analysis will be discussed. 
 We will analyze and synthesize the collection, preservation, analysis, and presentation 
