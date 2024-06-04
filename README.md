@@ -1,5 +1,5 @@
 # Mobile-and-Network-Forensics
-Project of the Forensics Process of Mobile and Network Forensics and Cyber-Crime Scene Analysis
+Project of the Forensics Process of Mobile and Network Forensics and Cyber-Crime Scene Analysis - Date: March 13th, 2023
 
 # Topic - **Digital Forensics Report– SK8000PUA 55’’ 4K HDR Smart LED SUPER UHD TV**
 
@@ -15,8 +15,6 @@ to the emerging international standards for computer forensic analysis, as well 
 methodology for conducting mobile and digital forensic investigations.
 
 **Digital Forensics Report– SK8000PUA 55’’ 4K HDR Smart LED SUPER UHD TV**
-
-Date: March 13th, 2023
 
 By Malcolm Collins and Blaine Milburn
 Reviewed by: Dr. Connie Justice
