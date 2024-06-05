@@ -235,9 +235,11 @@ by using this Tableau TK8, our team can ensure that the computer has no capabili
 corrupt the evidence stored within the provided USB drive.
 ```
 
-### Narrative ..........................................................................................................................................
+### Narrative 
 
-#### Evidence Integrity Verification and Working Dataset Generation .....................................................................
+WIP
+
+#### Evidence Integrity Verification and Working Dataset Generation 
 
 As required by protocol, OctoForensic’s examiners will never perform direct analysis on the original
 evidence item. Instead, the examiner will verify the integrity of the evidence, generate a clone of the
@@ -248,7 +250,7 @@ of the evidence is referred to as the working dataset. This procedure ensures th
 evidence without running the risk of accidentally corrupting the authenticity of the original evidence
 item during the analysis phase of our forensic investigation.
 
-#### Evidence Drive Hash Integrity Verification ..........................................................................................................
+#### Evidence Drive Hash Integrity Verification 
 
 To begin creating the working dataset of the LG SK8000PUA TV storage medium, Blaine Milburn
 (examiner) checked out the digital disk image ( **Evidence ID: 003** ) from the evidence manager, Malcolm
