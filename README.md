@@ -273,7 +273,7 @@ Evidence Drive Hash Values – April 1, 2023, at 3:28PM EST.
 Figure 1: Importing and Verifying Evidence Integrity using FTK Imager
 ```
 
-#### Generating Working Dataset .............................................................................................................................
+#### Generating Working Dataset 
 
 With the original evidence’s forensic integrity confirmed, the forensic examiner began to clone the
 evidence image to the forensic workstation using FTK Imager. Shown below in figure two, you can see
