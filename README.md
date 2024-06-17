@@ -300,7 +300,7 @@ With the evidence successfully verified to be intact and secured on the Windows 
 the examiner then updated the chain of custody documentation and returned the USB drive containing
 the original evidence image ( **Evidence ID: 003** ) to the evidence manager, Malcolm Collins for storage.
 
-#### Working Data Ingest into Autopsy Forensic Examiner .....................................................................................
+#### Working Data Ingest into Autopsy Forensic Examiner
 
 With the hash signature verified to still be unaltered, the examiner then began running the evidence
 ingest modules on the working dataset. To elaborate, Autopsy is specifically tailored to disk image
@@ -314,7 +314,7 @@ violated.
 ```
 Figure 3: Autopsy Ingest of Working Dataset Image
 ```
-#### Evidence of Counter Forensics Techniques ........................................................................................................
+#### Evidence of Counter Forensics Techniques
 
 After the completion of the Autopsy ingest modules, it became apparent to the examiner that this
 device had been attempted to be wiped prior to being brought into the court’s custody. To explain, all
