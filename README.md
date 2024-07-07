@@ -807,7 +807,7 @@ Patrick Messer #012 IPD Evidence Storage
 ```
 IPD_Form_#PE003_v.1 (12/2012) Page 1 of 2 pages (See back)
 
-## References.............................................................................................................................
+## References
 
 BasisTech. (2023, April 21). _Autopsy_. Retrieved from Autopsy: https://www.autopsy.com/about/
 
